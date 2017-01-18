@@ -18,5 +18,3 @@ https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 ## How to compile
 Don't forget to compile both **LiquidCrystal_I2C.h** and **LiquidCrystal_I2C.cpp** files, and remember that you will need to link
 the WiringPi library using <code>-lWiringPi</code>
-
-
